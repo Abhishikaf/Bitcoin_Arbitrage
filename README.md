@@ -12,42 +12,42 @@ profit in doing so.
 ### Overall Analysis
 When looking at the overlay of the data from the two exchanges for the entire period, we can see arbitrage opportunities, when there is a clear demarkation between the plots of the two exchanges. It can be seen that in the early period we can see periods of clear distinction between the two exchanges. But as time progresses, both the plots follow each other very closely, almost overlapping each other without any space. This leads us to believe that maybe this investment field is already saturated and maybe not a good field to gain a good amount of profit. 
 
-![Bitstamp vs Coinbase Entire Period](images/coinbase_bitstamp_general.png)
+![Bitstamp vs Coinbase Entire Period](Images/Coinbase_Bitstamp_general.png)
 
 ### Earlier vs Later Period
 Analyzing the earlier period vs later period, we find that there appear to be more arbitrage opportunities in the 
 earlier period as compared to the later period. This is true in any arbitrage situation. Once people figure out the 
 potential to profit from the price difference, the gap closes very quickly. 
 
-![Bitstamp vs Coinbase Earlier Period](images/coinbase_bitstamp_early_period.png)
-![Bitstamp vs Coinbase Later Period](images/coinbase_bitstamp_later_period.png)
+![Bitstamp vs Coinbase Earlier Period](Images/Coinbase_Bitstamp_early_period.png)
+![Bitstamp vs Coinbase Later Period](Images/Coinbase_Bitstamp_later_period.png)
 
 ### Analyzing specific dates
 Analyzing specific dates in the early, middle and later periods show that there are more opportunities in the early part
 of the day and the profit reduces as the day progresses. It also reinforces the earlier conclusion, that the profit margin was greater in earlier periods of the dataset and it diminishes, eventually becoming zero in the later parts of the data set. 
 
-![Bitstamp vs Coinbase Jan 08, 2018](images/coinbase_bitstamp_jan_08.png)
-![Bitstamp vs Coinbase Jan 28, 2018](images/coinbase_bitstamp_jan_28.png)
-![Bitstamp vs Coinbase Mar 20, 2018](images/coinbase_bitstamp_mar_20.png)
+![Bitstamp vs Coinbase Jan 08, 2018](Images/Coinbase_Bitstamp_jan_08.png)
+![Bitstamp vs Coinbase Jan 28, 2018](Images/Coinbase_Bitstamp_jan_28.png)
+![Bitstamp vs Coinbase Mar 20, 2018](Images/Coinbase_Bitstamp_mar_20.png)
 
 ### Profit
 Analyzing the profit opportunities confirms that profits can be made in the earlier period but there is no profit to be made in the later period. During the earlier period, profit can be made in the early part of the day and it reduces as the day progresses
 
 * Profit Summary Table
 
-![Profit Summary Table](images/profit_summary_table.png)
+![Profit Summary Table](Images/profit_summary_table.png)
 
 * Jan 08, 2018 - Cumulative arbitrage profits 
 
-![Cumulative Profit Jan 08, 2018](images/cumulative_profit_sum_Jan_08.png)
+![Cumulative Profit Jan 08, 2018](Images/cumulative_profit_sum_Jan_08.png)
 
 * Jan 28, 2018 - Cumulative arbitrage profits 
 
-![Cumulative Profit Jan 28, 2018](images/cumulative_profit_sum_Jan_28.png) 
+![Cumulative Profit Jan 28, 2018](Images/cumulative_profit_sum_Jan_28.png) 
 
 * Mar 20, 2018 - Cumulative arbitrage profits
 
-![Cumulative Profit Jan 16, 2018](images/cumulative_profit_sum_Mar_20.png)
+![Cumulative Profit Mar 20, 2018](Images/cumulative_profit_sum_Mar_20.png)
 
 
 ### Assumptions and Discovery
