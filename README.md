@@ -39,15 +39,15 @@ Analyzing the profit opportunities confirms that profits can be made in the earl
 
 * Jan 08, 2018 - Cumulative arbitrage profits 
 
-![Cumulative Profit Jan 08, 2018](Images/cumulative_profit_sum_Jan_08.png)
+![Cumulative Profit Jan 08, 2018](Images/cumulative_profit_sum_jan_08.png)
 
 * Jan 28, 2018 - Cumulative arbitrage profits 
 
-![Cumulative Profit Jan 28, 2018](Images/cumulative_profit_sum_Jan_28.png) 
+![Cumulative Profit Jan 28, 2018](Images/cumulative_profit_sum_jan_28.png) 
 
 * Mar 20, 2018 - Cumulative arbitrage profits
 
-![Cumulative Profit Mar 20, 2018](Images/cumulative_profit_sum_Mar_20.png)
+![Cumulative Profit Mar 20, 2018](Images/cumulative_profit_sum_mar_20.png)
 
 
 ### Assumptions and Discovery
